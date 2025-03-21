@@ -9,5 +9,5 @@ elif(data==0):
     print("Number is 0")
 elif(data%2 == 0):
     print("Even Number")
-else:
+elif(data%2 == 1):
     print("Odd Number")
