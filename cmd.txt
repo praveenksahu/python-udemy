@@ -1,0 +1,178 @@
+    1  git remote -v
+    2  cd testmyrepo/
+    3  git remote -v
+    4  git remote -v
+    5  git clone https://github.com/iam-veeramalla/Docker-Zero-to-Hero.git
+    6  dir
+    7  cd Docker-Zero-to-Hero/
+    8  ls
+    9  vi README.md 
+   10  cd ..
+   11  ls
+   12  vi calculator.txt
+   13  git add calculator.txt 
+   14  git log
+   15  git log
+   16  ls
+   17  git
+   18  clear
+   19  git init
+   20  ls
+   21  ls -la
+   22  ls -git
+   23  ls ,git
+   24  ls .git
+   25  ls
+   26  vi calculator.txt 
+   27  git status
+   28  git diff
+   29  vi calculator.txt 
+   30  git commit -m "this is my first version"
+   31  git status
+   32  git config --global user.email "praveen.sahu@yahoo.com"
+   33   git config --global user.name "Praveen Sahu"
+   34  git status
+   35  git commit -m "this is my first version"
+   36  git status
+   37  ls -la
+   38  git diff
+   39  git add calculator.txt 
+   40  git status
+   41  git commit -m "this is my second change"
+   42  git log
+   43  vi calculator.txt 
+   44  git add calculator.txt 
+   45  git status
+   46  git commit -m "third change"
+   47  git diff
+   48  git diff calculator.txt
+   49  git status
+   50  git log
+   51  vi calculator.txt 
+   52  git status
+   53  git add calculator.txt 
+   54  git commit -m "forth change"
+   55  git status
+   56  git log
+   57  git push calculator.txt
+   58  ls
+   59  vi cal.sh
+   60  git init
+   61  ls
+   62  git log
+   63  git status
+   64   git add cal.sh 
+   65  git status
+   66  vi cal.sh 
+   67  git diff
+   68  git checkout calculator.txt
+   69  git add cal.sh 
+   70  git status
+   71  git commit -m "First commit"
+   72  git log
+   73  vi cal.sh 
+   74  git remote add "https://github.com/praveenksahu/testmyrepo.git"
+   75  git remote add "https://github.com/praveenksahu/testmyrepo"
+   76  git remote -v
+   77  git remote add "https://github.com/praveenksahu/testmyrepo.git"
+   78  git remote add -m "https://github.com/praveenksahu/testmyrepo.git"
+   79  git remote add "https://github.com/praveenksahu/testmyrepo.git"
+   80  git remote add cal "https://github.com/praveenksahu/testmyrepo.git"
+   81  git remote add cal "https://github.com/praveenksahu/testmyrepo"
+   82  ls
+   83  git log
+   84  git remote -v
+   85  pwd
+   86  ls -la
+   87  ls -la .git/
+   88  ls -la .git/HEAD 
+   89  ls -ls .git/HEAD 
+   90  git log
+   91  git push -u origin master
+   92  git push -u origin main
+   93  git push -u cal main
+   94  git remote -v
+   95  ls
+   96  git status
+   97  rm -rf Docker-Zero-to-Hero/
+   98  ls
+   99  rm README.md 
+  100  ls
+  101  rm calculator.txt 
+  102  ls
+  103  vi cal.sh 
+  104  git add cal.sh 
+  105  git status
+  106  git commit -m "testing again"
+  107  git log
+  108  git remote add cal "https://github.com/praveenksahu/testmyrepo.git"
+  109  git push -u cal main
+  110  git pull -u cal main
+  111  git pull
+  112  ls
+  113  git push -u cal main
+  114  exit
+  115  pwd
+  116  dir
+  117  pwd
+  118  pwd
+  119  dir
+  120  cd c:/
+  121  pwd
+  122  git clone
+  123  git clone https://github.com/praveenksahu/testmyrepo.git
+  124  pwd
+  125  bash
+  126  git
+  127  git --version
+  128  cd c:ls
+  129  cd c:Git/
+  130  pwd
+  131  git init
+  132  ls -al
+  133  vi calculator.sh
+  134  ls
+  135  git status
+  136  git add calculator.sh 
+  137  git commit -m "First Commit"
+  138  git status
+  139  git branch -M main
+  140  git remote add origin https://github.com/praveenksahu/TestRepo.git
+  141  git push -u origin main
+  142  git clone https://github.com/praveenksahu/Docker-Zero-to-Hero.git
+  143  git version
+  144  pwd
+  145  dir
+  146  pwd
+  147  ls
+  148  clear
+  149  pwd
+  150  ls
+  151  cd c:
+  152  cd c:Python_Selenium/git-demo/
+  153  ls
+  154  git status
+  155  git init
+  156  git config --global
+  157  git config --global user.name praveenksahu
+  158  git config --global user.email "praveen.sahu@yahoo.com"
+  159  git config --global --list
+  160  git status
+  161  git add main.py 
+  162  git status
+  163  git add *
+  164  git status
+  165  ls
+  166  git commit -m
+  167  git commit -m "first commit"
+  168  git remote add origin https://github.com/praveenksahu/git-demo.git
+  169  git branch -M main
+  170  git push -u origin main
+  171  git push -u origin main
+  172  git fetch origin main:tmp
+  173  git rebase tmp
+  174  git push origin HEAD:main
+  175  git branch -D tmp
+  176  git push -u origin main
+  177  history
+  178  history >> cmd.txt

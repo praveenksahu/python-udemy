@@ -1,0 +1,4 @@
+    4git remote
+    3git remote
+    2cd testmyrepo/
+    1git remote -v
