@@ -7,8 +7,6 @@ from selenium.webdriver.common.by import By
 
 service_obj=Service("chromedriver-win64//chromedriver.exe")
 
-#C:\Users\aarya\Downloads\chromedriver-win64.zip\chromedriver-win64
-
 driver =webdriver.Chrome(service=service_obj)
 driver.get("https://rahulshettyacademy.com/client/")
 
