@@ -8,6 +8,6 @@ from selenium.webdriver.firefox.service import Service
 # print(driver.title)
 # print(driver.current_url)
 
-#service_obj= Service("C:/Python_Selenium/PythonUdemyPrj/Python_Selenium/geckodriver.exe")
+service_obj= Service("C:/Python_Selenium/PythonUdemyPrj/Python_Selenium/geckodriver.exe")
 driver=webdriver.Firefox()
-driver.get("https://rahulshettyacademy.com/angularpractice/")
+#driver.get("https://rahulshettyacademy.com/angularpractice/")
